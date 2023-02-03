@@ -21,12 +21,18 @@
     <ClInclude Include="two_fer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="pangram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="reverse_string.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="two_fer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pangram.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
