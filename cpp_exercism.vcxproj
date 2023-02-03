@@ -128,9 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="reverse_string.h" />
+    <ClInclude Include="two_fer.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="reverse_string.cpp" />
+    <ClCompile Include="two_fer.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
