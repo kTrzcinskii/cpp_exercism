@@ -1,6 +1,6 @@
 #include "sieve.h"
 
-const std::vector<int> sieve::primes(int n)
+std::vector<int> sieve::primes(int n)
 {
 	std::vector<int> primes;
 
