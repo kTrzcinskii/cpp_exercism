@@ -27,7 +27,7 @@
     <ClInclude Include="grains.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="rna_transcription.h">
+    <ClInclude Include="difference_of_squares.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -44,7 +44,7 @@
     <ClCompile Include="grains.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="rna_transcription.cpp">
+    <ClCompile Include="difference_of_squares.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

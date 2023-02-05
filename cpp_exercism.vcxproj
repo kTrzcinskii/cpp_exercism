@@ -127,12 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="difference_of_squares.h" />
     <ClInclude Include="grains.h" />
     <ClInclude Include="pangram.h" />
     <ClInclude Include="reverse_string.h" />
     <ClInclude Include="two_fer.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="difference_of_squares.cpp" />
     <ClCompile Include="grains.cpp" />
     <ClCompile Include="pangram.cpp" />
     <ClCompile Include="reverse_string.cpp" />
