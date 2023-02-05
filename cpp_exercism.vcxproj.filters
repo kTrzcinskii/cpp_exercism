@@ -30,6 +30,9 @@
     <ClInclude Include="difference_of_squares.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sieve.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="reverse_string.cpp">
@@ -45,6 +48,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="difference_of_squares.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sieve.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

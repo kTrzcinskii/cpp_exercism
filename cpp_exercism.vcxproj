@@ -131,6 +131,7 @@
     <ClInclude Include="grains.h" />
     <ClInclude Include="pangram.h" />
     <ClInclude Include="reverse_string.h" />
+    <ClInclude Include="sieve.h" />
     <ClInclude Include="two_fer.h" />
   </ItemGroup>
   <ItemGroup>
@@ -138,6 +139,7 @@
     <ClCompile Include="grains.cpp" />
     <ClCompile Include="pangram.cpp" />
     <ClCompile Include="reverse_string.cpp" />
+    <ClCompile Include="sieve.cpp" />
     <ClCompile Include="two_fer.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
