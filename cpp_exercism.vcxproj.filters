@@ -36,6 +36,9 @@
     <ClInclude Include="hexadecimal.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="isogram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="reverse_string.cpp">
@@ -57,6 +60,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="hexadecimal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="isogram.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
