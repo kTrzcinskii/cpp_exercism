@@ -39,6 +39,9 @@
     <ClInclude Include="isogram.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="matching_brackets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="reverse_string.cpp">
@@ -63,6 +66,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="isogram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="matching_brackets.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

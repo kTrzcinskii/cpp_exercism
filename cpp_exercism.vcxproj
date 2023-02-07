@@ -131,6 +131,7 @@
     <ClInclude Include="grains.h" />
     <ClInclude Include="hexadecimal.h" />
     <ClInclude Include="isogram.h" />
+    <ClInclude Include="matching_brackets.h" />
     <ClInclude Include="pangram.h" />
     <ClInclude Include="reverse_string.h" />
     <ClInclude Include="sieve.h" />
@@ -141,6 +142,7 @@
     <ClCompile Include="grains.cpp" />
     <ClCompile Include="hexadecimal.cpp" />
     <ClCompile Include="isogram.cpp" />
+    <ClCompile Include="matching_brackets.cpp" />
     <ClCompile Include="pangram.cpp" />
     <ClCompile Include="reverse_string.cpp" />
     <ClCompile Include="sieve.cpp" />
