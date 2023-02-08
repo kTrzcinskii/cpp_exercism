@@ -45,6 +45,9 @@
     <ClInclude Include="scrabble_score.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sum_of_multiples.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="reverse_string.cpp">
@@ -75,6 +78,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="scrabble_score.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sum_of_multiples.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

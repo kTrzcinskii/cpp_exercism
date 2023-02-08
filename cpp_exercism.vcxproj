@@ -136,6 +136,7 @@
     <ClInclude Include="reverse_string.h" />
     <ClInclude Include="scrabble_score.h" />
     <ClInclude Include="sieve.h" />
+    <ClInclude Include="sum_of_multiples.h" />
     <ClInclude Include="two_fer.h" />
   </ItemGroup>
   <ItemGroup>
@@ -148,6 +149,7 @@
     <ClCompile Include="reverse_string.cpp" />
     <ClCompile Include="scrabble_score.cpp" />
     <ClCompile Include="sieve.cpp" />
+    <ClCompile Include="sum_of_multiples.cpp" />
     <ClCompile Include="two_fer.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
