@@ -42,6 +42,9 @@
     <ClInclude Include="matching_brackets.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="scrabble_score.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="reverse_string.cpp">
@@ -69,6 +72,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="matching_brackets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scrabble_score.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
