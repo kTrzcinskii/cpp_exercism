@@ -133,6 +133,7 @@
     <ClInclude Include="isogram.h" />
     <ClInclude Include="matching_brackets.h" />
     <ClInclude Include="pangram.h" />
+    <ClInclude Include="protein_translation.h" />
     <ClInclude Include="reverse_string.h" />
     <ClInclude Include="scrabble_score.h" />
     <ClInclude Include="sieve.h" />
@@ -146,6 +147,7 @@
     <ClCompile Include="isogram.cpp" />
     <ClCompile Include="matching_brackets.cpp" />
     <ClCompile Include="pangram.cpp" />
+    <ClCompile Include="protein_translation.cpp" />
     <ClCompile Include="reverse_string.cpp" />
     <ClCompile Include="scrabble_score.cpp" />
     <ClCompile Include="sieve.cpp" />
