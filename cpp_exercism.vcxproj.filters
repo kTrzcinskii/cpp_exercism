@@ -51,6 +51,9 @@
     <ClInclude Include="protein_translation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="pascal_triangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="reverse_string.cpp">
@@ -87,6 +90,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="protein_translation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pascal_triangle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

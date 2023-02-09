@@ -133,6 +133,7 @@
     <ClInclude Include="isogram.h" />
     <ClInclude Include="matching_brackets.h" />
     <ClInclude Include="pangram.h" />
+    <ClInclude Include="pascal_triangle.h" />
     <ClInclude Include="protein_translation.h" />
     <ClInclude Include="reverse_string.h" />
     <ClInclude Include="scrabble_score.h" />
@@ -142,6 +143,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="difference_of_squares.cpp" />
+    <ClCompile Include="pascal_triangle.cpp" />
     <ClCompile Include="grains.cpp" />
     <ClCompile Include="hexadecimal.cpp" />
     <ClCompile Include="isogram.cpp" />
