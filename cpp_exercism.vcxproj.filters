@@ -15,84 +15,90 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="reverse_string.h">
+    <ClInclude Include="src\reverse_string.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="two_fer.h">
+    <ClInclude Include="src\two_fer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="pangram.h">
+    <ClInclude Include="src\pangram.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="grains.h">
+    <ClInclude Include="src\grains.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="difference_of_squares.h">
+    <ClInclude Include="src\difference_of_squares.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="sieve.h">
+    <ClInclude Include="src\sieve.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="hexadecimal.h">
+    <ClInclude Include="src\hexadecimal.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="isogram.h">
+    <ClInclude Include="src\isogram.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="matching_brackets.h">
+    <ClInclude Include="src\matching_brackets.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="scrabble_score.h">
+    <ClInclude Include="src\scrabble_score.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="sum_of_multiples.h">
+    <ClInclude Include="src\sum_of_multiples.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="protein_translation.h">
+    <ClInclude Include="src\protein_translation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="pascal_triangle.h">
+    <ClInclude Include="src\pascal_triangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rna_transcription.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="reverse_string.cpp">
+    <ClCompile Include="src\reverse_string.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="two_fer.cpp">
+    <ClCompile Include="src\two_fer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="pangram.cpp">
+    <ClCompile Include="src\pangram.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="grains.cpp">
+    <ClCompile Include="src\grains.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="difference_of_squares.cpp">
+    <ClCompile Include="src\difference_of_squares.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="sieve.cpp">
+    <ClCompile Include="src\sieve.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="hexadecimal.cpp">
+    <ClCompile Include="src\hexadecimal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="isogram.cpp">
+    <ClCompile Include="src\isogram.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="matching_brackets.cpp">
+    <ClCompile Include="src\matching_brackets.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="scrabble_score.cpp">
+    <ClCompile Include="src\scrabble_score.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="sum_of_multiples.cpp">
+    <ClCompile Include="src\sum_of_multiples.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="protein_translation.cpp">
+    <ClCompile Include="src\protein_translation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="pascal_triangle.cpp">
+    <ClCompile Include="src\pascal_triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rna_transcription.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

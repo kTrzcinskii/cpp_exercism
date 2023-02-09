@@ -127,34 +127,36 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="difference_of_squares.h" />
-    <ClInclude Include="grains.h" />
-    <ClInclude Include="hexadecimal.h" />
-    <ClInclude Include="isogram.h" />
-    <ClInclude Include="matching_brackets.h" />
-    <ClInclude Include="pangram.h" />
-    <ClInclude Include="pascal_triangle.h" />
-    <ClInclude Include="protein_translation.h" />
-    <ClInclude Include="reverse_string.h" />
-    <ClInclude Include="scrabble_score.h" />
-    <ClInclude Include="sieve.h" />
-    <ClInclude Include="sum_of_multiples.h" />
-    <ClInclude Include="two_fer.h" />
+    <ClInclude Include="src\difference_of_squares.h" />
+    <ClInclude Include="src\grains.h" />
+    <ClInclude Include="src\hexadecimal.h" />
+    <ClInclude Include="src\isogram.h" />
+    <ClInclude Include="src\matching_brackets.h" />
+    <ClInclude Include="src\pangram.h" />
+    <ClInclude Include="src\pascal_triangle.h" />
+    <ClInclude Include="src\protein_translation.h" />
+    <ClInclude Include="src\reverse_string.h" />
+    <ClInclude Include="src\rna_transcription.h" />
+    <ClInclude Include="src\scrabble_score.h" />
+    <ClInclude Include="src\sieve.h" />
+    <ClInclude Include="src\sum_of_multiples.h" />
+    <ClInclude Include="src\two_fer.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="difference_of_squares.cpp" />
-    <ClCompile Include="pascal_triangle.cpp" />
-    <ClCompile Include="grains.cpp" />
-    <ClCompile Include="hexadecimal.cpp" />
-    <ClCompile Include="isogram.cpp" />
-    <ClCompile Include="matching_brackets.cpp" />
-    <ClCompile Include="pangram.cpp" />
-    <ClCompile Include="protein_translation.cpp" />
-    <ClCompile Include="reverse_string.cpp" />
-    <ClCompile Include="scrabble_score.cpp" />
-    <ClCompile Include="sieve.cpp" />
-    <ClCompile Include="sum_of_multiples.cpp" />
-    <ClCompile Include="two_fer.cpp" />
+    <ClCompile Include="src\difference_of_squares.cpp" />
+    <ClCompile Include="src\pascal_triangle.cpp" />
+    <ClCompile Include="src\grains.cpp" />
+    <ClCompile Include="src\hexadecimal.cpp" />
+    <ClCompile Include="src\isogram.cpp" />
+    <ClCompile Include="src\matching_brackets.cpp" />
+    <ClCompile Include="src\pangram.cpp" />
+    <ClCompile Include="src\protein_translation.cpp" />
+    <ClCompile Include="src\reverse_string.cpp" />
+    <ClCompile Include="src\rna_transcription.cpp" />
+    <ClCompile Include="src\scrabble_score.cpp" />
+    <ClCompile Include="src\sieve.cpp" />
+    <ClCompile Include="src\sum_of_multiples.cpp" />
+    <ClCompile Include="src\two_fer.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
