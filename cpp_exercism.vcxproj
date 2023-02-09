@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="src\armstrong_numbers.h" />
+    <ClInclude Include="src\darts.h" />
     <ClInclude Include="src\space_age.h" />
     <ClInclude Include="src\difference_of_squares.h" />
     <ClInclude Include="src\grains.h" />
@@ -147,6 +148,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\armstrong_numbers.cpp" />
+    <ClCompile Include="src\darts.cpp" />
     <ClCompile Include="src\space_age.cpp" />
     <ClCompile Include="src\difference_of_squares.cpp" />
     <ClCompile Include="src\pascal_triangle.cpp" />
