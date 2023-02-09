@@ -57,6 +57,9 @@
     <ClInclude Include="src\rna_transcription.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\space_age.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\reverse_string.cpp">
@@ -99,6 +102,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\rna_transcription.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\space_age.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

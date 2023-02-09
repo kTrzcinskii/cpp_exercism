@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="src\space_age.h" />
     <ClInclude Include="src\difference_of_squares.h" />
     <ClInclude Include="src\grains.h" />
     <ClInclude Include="src\hexadecimal.h" />
@@ -143,6 +144,7 @@
     <ClInclude Include="src\two_fer.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\space_age.cpp" />
     <ClCompile Include="src\difference_of_squares.cpp" />
     <ClCompile Include="src\pascal_triangle.cpp" />
     <ClCompile Include="src\grains.cpp" />
