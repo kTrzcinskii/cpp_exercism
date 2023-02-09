@@ -1,7 +1,5 @@
 #include "armstrong_numbers.h"
 
-#include <iostream>
-
 size_t armstrong_numbers::number_len(unsigned long long n)
 {
 	size_t len = 0;
@@ -25,11 +23,4 @@ bool armstrong_numbers::is_armstrong_number(unsigned long long n)
 		n /= 10;
 	}
 	return sum_of_digits == number;
-}
-
-int main()
-{
-	std::cout << armstrong_numbers::is_armstrong_number(110);
-
-	return 0;
 }
