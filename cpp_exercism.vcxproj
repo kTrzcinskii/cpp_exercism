@@ -141,6 +141,7 @@
     <ClInclude Include="src\scrabble_score.h" />
     <ClInclude Include="src\sieve.h" />
     <ClInclude Include="src\sum_of_multiples.h" />
+    <ClInclude Include="src\triangle.h" />
     <ClInclude Include="src\two_fer.h" />
   </ItemGroup>
   <ItemGroup>
@@ -158,6 +159,7 @@
     <ClCompile Include="src\scrabble_score.cpp" />
     <ClCompile Include="src\sieve.cpp" />
     <ClCompile Include="src\sum_of_multiples.cpp" />
+    <ClCompile Include="src\triangle.cpp" />
     <ClCompile Include="src\two_fer.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
