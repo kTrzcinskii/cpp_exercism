@@ -69,6 +69,9 @@
     <ClInclude Include="src\darts.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\nucleotide_count.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\reverse_string.cpp">
@@ -123,6 +126,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\darts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\nucleotide_count.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
