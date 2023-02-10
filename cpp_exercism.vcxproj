@@ -130,6 +130,7 @@
     <ClInclude Include="src\armstrong_numbers.h" />
     <ClInclude Include="src\darts.h" />
     <ClInclude Include="src\grade_school.h" />
+    <ClInclude Include="src\hamming.h" />
     <ClInclude Include="src\isbn_verifier.h" />
     <ClInclude Include="src\nucleotide_count.h" />
     <ClInclude Include="src\raindrops.h" />
@@ -154,6 +155,7 @@
     <ClCompile Include="src\armstrong_numbers.cpp" />
     <ClCompile Include="src\darts.cpp" />
     <ClCompile Include="src\grade_school.cpp" />
+    <ClCompile Include="src\hamning.cpp" />
     <ClCompile Include="src\isbn_verifier.cpp" />
     <ClCompile Include="src\nucleotide_count.cpp" />
     <ClCompile Include="src\raindrops.cpp" />
