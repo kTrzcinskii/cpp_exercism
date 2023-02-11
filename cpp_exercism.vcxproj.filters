@@ -93,6 +93,9 @@
     <ClInclude Include="src\allergies.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\atbash_cipher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\reverse_string.cpp">
@@ -171,6 +174,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\allergies.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\atbash_cipher.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

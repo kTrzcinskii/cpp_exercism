@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClInclude Include="src\allergies.h" />
     <ClInclude Include="src\armstrong_numbers.h" />
+    <ClInclude Include="src\atbash_cipher.h" />
     <ClInclude Include="src\collatz_conjecture.h" />
     <ClInclude Include="src\darts.h" />
     <ClInclude Include="src\grade_school.h" />
@@ -157,6 +158,7 @@
   <ItemGroup>
     <ClCompile Include="src\allergies.cpp" />
     <ClCompile Include="src\armstrong_numbers.cpp" />
+    <ClCompile Include="src\atbash_cipher.cpp" />
     <ClCompile Include="src\collatz_conjecture.cpp" />
     <ClCompile Include="src\darts.cpp" />
     <ClCompile Include="src\grade_school.cpp" />
