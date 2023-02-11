@@ -84,6 +84,9 @@
     <ClInclude Include="src\hamming.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\collatz_conjecture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\reverse_string.cpp">
@@ -153,6 +156,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\hamning.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\collatz_conjecture.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
