@@ -87,6 +87,9 @@
     <ClInclude Include="src\collatz_conjecture.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\secret_handshake.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\reverse_string.cpp">
@@ -159,6 +162,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\collatz_conjecture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\secret_handshake.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
