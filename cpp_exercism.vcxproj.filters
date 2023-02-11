@@ -99,6 +99,9 @@
     <ClInclude Include="src\complex_numbers.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\luhn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\reverse_string.cpp">
@@ -183,6 +186,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\complex_numbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\luhn.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

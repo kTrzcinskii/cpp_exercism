@@ -136,6 +136,7 @@
     <ClInclude Include="src\grade_school.h" />
     <ClInclude Include="src\hamming.h" />
     <ClInclude Include="src\isbn_verifier.h" />
+    <ClInclude Include="src\luhn.h" />
     <ClInclude Include="src\nucleotide_count.h" />
     <ClInclude Include="src\raindrops.h" />
     <ClInclude Include="src\secret_handshake.h" />
@@ -166,6 +167,7 @@
     <ClCompile Include="src\grade_school.cpp" />
     <ClCompile Include="src\hamning.cpp" />
     <ClCompile Include="src\isbn_verifier.cpp" />
+    <ClCompile Include="src\luhn.cpp" />
     <ClCompile Include="src\nucleotide_count.cpp" />
     <ClCompile Include="src\raindrops.cpp" />
     <ClCompile Include="src\secret_handshake.cpp" />
