@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="src\allergies.h" />
+    <ClInclude Include="src\all_your_base.h" />
     <ClInclude Include="src\armstrong_numbers.h" />
     <ClInclude Include="src\atbash_cipher.h" />
     <ClInclude Include="src\collatz_conjecture.h" />
@@ -160,6 +161,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\allergies.cpp" />
+    <ClCompile Include="src\all_your_base.cpp" />
     <ClCompile Include="src\armstrong_numbers.cpp" />
     <ClCompile Include="src\atbash_cipher.cpp" />
     <ClCompile Include="src\collatz_conjecture.cpp" />
