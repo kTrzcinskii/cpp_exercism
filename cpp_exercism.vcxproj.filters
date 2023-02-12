@@ -108,6 +108,9 @@
     <ClInclude Include="src\all_your_base.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\robot_simulator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\reverse_string.cpp">
@@ -201,6 +204,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\all_your_base.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\robot_simulator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

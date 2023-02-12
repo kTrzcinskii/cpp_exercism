@@ -141,6 +141,7 @@
     <ClInclude Include="src\luhn.h" />
     <ClInclude Include="src\nucleotide_count.h" />
     <ClInclude Include="src\raindrops.h" />
+    <ClInclude Include="src\robot_simulator.h" />
     <ClInclude Include="src\secret_handshake.h" />
     <ClInclude Include="src\space_age.h" />
     <ClInclude Include="src\difference_of_squares.h" />
@@ -174,6 +175,7 @@
     <ClCompile Include="src\luhn.cpp" />
     <ClCompile Include="src\nucleotide_count.cpp" />
     <ClCompile Include="src\raindrops.cpp" />
+    <ClCompile Include="src\robot_simulator.cpp" />
     <ClCompile Include="src\secret_handshake.cpp" />
     <ClCompile Include="src\space_age.cpp" />
     <ClCompile Include="src\difference_of_squares.cpp" />
