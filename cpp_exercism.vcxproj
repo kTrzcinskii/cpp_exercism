@@ -133,6 +133,7 @@
     <ClInclude Include="src\collatz_conjecture.h" />
     <ClInclude Include="src\complex_numbers.h" />
     <ClInclude Include="src\darts.h" />
+    <ClInclude Include="src\etl.h" />
     <ClInclude Include="src\grade_school.h" />
     <ClInclude Include="src\hamming.h" />
     <ClInclude Include="src\isbn_verifier.h" />
@@ -164,6 +165,7 @@
     <ClCompile Include="src\collatz_conjecture.cpp" />
     <ClCompile Include="src\complex_numbers.cpp" />
     <ClCompile Include="src\darts.cpp" />
+    <ClCompile Include="src\etl.cpp" />
     <ClCompile Include="src\grade_school.cpp" />
     <ClCompile Include="src\hamning.cpp" />
     <ClCompile Include="src\isbn_verifier.cpp" />
