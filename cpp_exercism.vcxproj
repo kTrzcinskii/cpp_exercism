@@ -139,6 +139,7 @@
     <ClInclude Include="src\hamming.h" />
     <ClInclude Include="src\isbn_verifier.h" />
     <ClInclude Include="src\luhn.h" />
+    <ClInclude Include="src\nth_prime.h" />
     <ClInclude Include="src\nucleotide_count.h" />
     <ClInclude Include="src\raindrops.h" />
     <ClInclude Include="src\robot_name.h" />
@@ -175,6 +176,7 @@
     <ClCompile Include="src\hamning.cpp" />
     <ClCompile Include="src\isbn_verifier.cpp" />
     <ClCompile Include="src\luhn.cpp" />
+    <ClCompile Include="src\nth_prime.cpp" />
     <ClCompile Include="src\nucleotide_count.cpp" />
     <ClCompile Include="src\raindrops.cpp" />
     <ClCompile Include="src\robot_name.cpp" />
