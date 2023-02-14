@@ -120,6 +120,9 @@
     <ClInclude Include="src\nth_prime.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\queen_attack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\reverse_string.cpp">
@@ -225,6 +228,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\nth_prime.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\queen_attack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
