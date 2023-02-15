@@ -132,6 +132,9 @@
     <ClInclude Include="src\series.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\prime_factors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\reverse_string.cpp">
@@ -249,6 +252,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\series.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\prime_factors.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

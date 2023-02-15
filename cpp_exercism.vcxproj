@@ -143,6 +143,7 @@
     <ClInclude Include="src\nth_prime.h" />
     <ClInclude Include="src\nucleotide_count.h" />
     <ClInclude Include="src\phone_number.h" />
+    <ClInclude Include="src\prime_factors.h" />
     <ClInclude Include="src\queen_attack.h" />
     <ClInclude Include="src\raindrops.h" />
     <ClInclude Include="src\robot_name.h" />
@@ -184,6 +185,7 @@
     <ClCompile Include="src\nth_prime.cpp" />
     <ClCompile Include="src\nucleotide_count.cpp" />
     <ClCompile Include="src\phone_number.cpp" />
+    <ClCompile Include="src\prime_factors.cpp" />
     <ClCompile Include="src\queen_attack.cpp" />
     <ClCompile Include="src\raindrops.cpp" />
     <ClCompile Include="src\robot_name.cpp" />
