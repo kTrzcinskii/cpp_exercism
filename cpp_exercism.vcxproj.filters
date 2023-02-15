@@ -123,6 +123,9 @@
     <ClInclude Include="src\queen_attack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\phone_number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\reverse_string.cpp">
@@ -231,6 +234,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\queen_attack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\phone_number.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
