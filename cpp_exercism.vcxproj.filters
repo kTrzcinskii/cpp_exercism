@@ -129,6 +129,9 @@
     <ClInclude Include="src\crypto_square.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\series.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\reverse_string.cpp">
@@ -243,6 +246,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\crypto_square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\series.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
