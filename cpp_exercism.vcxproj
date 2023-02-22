@@ -132,6 +132,7 @@
     <ClInclude Include="src\anagram.h" />
     <ClInclude Include="src\armstrong_numbers.h" />
     <ClInclude Include="src\atbash_cipher.h" />
+    <ClInclude Include="src\binary_search.h" />
     <ClInclude Include="src\circular_buffer.h" />
     <ClInclude Include="src\collatz_conjecture.h" />
     <ClInclude Include="src\complex_numbers.h" />
@@ -178,6 +179,7 @@
     <ClCompile Include="src\anagram.cpp" />
     <ClCompile Include="src\armstrong_numbers.cpp" />
     <ClCompile Include="src\atbash_cipher.cpp" />
+    <ClCompile Include="src\binary_search.cpp" />
     <ClCompile Include="src\circular_buffer.cpp" />
     <ClCompile Include="src\collatz_conjecture.cpp" />
     <ClCompile Include="src\complex_numbers.cpp" />
