@@ -144,6 +144,9 @@
     <ClInclude Include="src\anagram.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\largest_series_product.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\reverse_string.cpp">
@@ -273,6 +276,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\anagram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\largest_series_product.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
