@@ -134,6 +134,7 @@
     <ClInclude Include="src\atbash_cipher.h" />
     <ClInclude Include="src\binary_search.h" />
     <ClInclude Include="src\circular_buffer.h" />
+    <ClInclude Include="src\clock.h" />
     <ClInclude Include="src\collatz_conjecture.h" />
     <ClInclude Include="src\complex_numbers.h" />
     <ClInclude Include="src\crypto_square.h" />
@@ -181,6 +182,7 @@
     <ClCompile Include="src\atbash_cipher.cpp" />
     <ClCompile Include="src\binary_search.cpp" />
     <ClCompile Include="src\circular_buffer.cpp" />
+    <ClCompile Include="src\clock.cpp" />
     <ClCompile Include="src\collatz_conjecture.cpp" />
     <ClCompile Include="src\complex_numbers.cpp" />
     <ClCompile Include="src\crypto_square.cpp" />

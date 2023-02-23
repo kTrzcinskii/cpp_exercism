@@ -150,6 +150,9 @@
     <ClInclude Include="src\binary_search.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\clock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\reverse_string.cpp">
@@ -285,6 +288,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\binary_search.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\clock.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
