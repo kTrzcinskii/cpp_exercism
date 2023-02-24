@@ -156,6 +156,9 @@
     <ClInclude Include="src\beer_song.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\bob.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\reverse_string.cpp">
@@ -297,6 +300,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\beer_song.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\bob.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
