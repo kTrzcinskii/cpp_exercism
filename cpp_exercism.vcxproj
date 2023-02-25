@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="src\acronym.h" />
     <ClInclude Include="src\allergies.h" />
     <ClInclude Include="src\all_your_base.h" />
     <ClInclude Include="src\anagram.h" />
@@ -177,6 +178,7 @@
     <ClInclude Include="src\word_count.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\acronym.cpp" />
     <ClCompile Include="src\allergies.cpp" />
     <ClCompile Include="src\all_your_base.cpp" />
     <ClCompile Include="src\anagram.cpp" />
