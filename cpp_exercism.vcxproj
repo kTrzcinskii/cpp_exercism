@@ -158,6 +158,7 @@
     <ClInclude Include="src\robot_name.h" />
     <ClInclude Include="src\robot_simulator.h" />
     <ClInclude Include="src\roman_numerals.h" />
+    <ClInclude Include="src\say.h" />
     <ClInclude Include="src\secret_handshake.h" />
     <ClInclude Include="src\series.h" />
     <ClInclude Include="src\space_age.h" />
@@ -210,6 +211,7 @@
     <ClCompile Include="src\robot_name.cpp" />
     <ClCompile Include="src\robot_simulator.cpp" />
     <ClCompile Include="src\roman_numerals.cpp" />
+    <ClCompile Include="src\say.cpp" />
     <ClCompile Include="src\secret_handshake.cpp" />
     <ClCompile Include="src\series.cpp" />
     <ClCompile Include="src\space_age.cpp" />
